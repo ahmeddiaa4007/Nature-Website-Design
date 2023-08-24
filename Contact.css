@@ -1,0 +1,71 @@
+ .u-section-1 {
+  background-image: url("images/bf617d3a7378e8faa06d169c2cc728e5a673b36c331b863c353d9b9e18741c7863fb421d3c2846205b947d0bede66b1b76cd8a2afdbc2cccb2cf48_1280.jpg");
+  min-height: 317px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 261px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 150px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 94px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 596px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-form-1 {
+  height: 367px;
+  width: 525px;
+  margin: 30px auto 60px;
+}
+
+.u-section-2 .u-input-1 {
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-input-2 {
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-input-3 {
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-form-1 {
+    width: 340px;
+  }
+}
